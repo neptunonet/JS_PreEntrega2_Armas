@@ -1,6 +1,6 @@
-1er Pre Entrega - Comisión 71340 - Juan Ignacio Armas
+** 1er Pre Entrega - Comisión 71340 - Juan Ignacio Armas **
 
-Simulador interactivo de Préstamo hipotecario
+* Simulador interactivo de Préstamo hipotecario *
 
 Formato:
   - Página HTML y código fuente en JavaScript.
