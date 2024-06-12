@@ -1,15 +1,25 @@
-**1er Pre Entrega - Comisión 71340 - Juan Ignacio Armas**
+**2da Pre Entrega - Comisión 71340 - Juan Ignacio Armas**
+**Estructura, variables y objetos**
 
 **Simulador interactivo de Préstamo hipotecario**
 
-*Formato:*
-  - Página HTML y código fuente en JavaScript.
-  - Debe identificar el apellido del alumno/a en el nombre de archivo comprimido por ““PreEntrega1+Apellido””
+*Objetivos especíﬁcos*
 
-*Aspectos a incluir:*
-  - Archivo HTML y Archivo JS, referenciado en el HTML por etiqueta <script src="js/miarchivo.js"></script>,que incluya la definición de un algoritmo en JavaScript que emplee funciones para resolver el procesamiento principal del simulador
+    - Capturar entradas mediante prompt(). Declarar variables y objetos necesarios para simular el proceso seleccionado.
+    - Crear funciones y/o métodos para realizar operaciones (suma, resta, concatenación, división, porcentaje, etc).
+    - Efectuar una salida, que es el resultado de los datos procesados, la cual puede hacerse por alert() o console.log().
 
-*Sugerencias:*
-  - Algunos criterios a tener en cuenta para seleccionar un proceso a simular por primera vez son:
-    -  “ELEGIR UN PROCESO BIEN CONOCIDO”: Si conozco una situación que implique adquirir cierta información y estoy bien familiarizado en “cómo se hace”, es más fácil traducir la solución a un lenguaje de programación.
-    -  “ELEGIR UN PROCESO QUE ME RESULTE INTERESANTE”: Si me siento motivado sobre el tema, es más llevadero enfrentar los retos de desarrollo e interpretación. Antes de programar existe la etapa de relevamiento y análisis que me permite identificar cómo solucionar el proceso.
+*Se debe entregar*
+    - Estructura HTML del proyecto.
+    - Variables de JS necesarias.
+    - Funciones esenciales del proceso a simular.
+    - Objetos de JS.
+    - Arrays. 
+    - Métodos de búsqueda y ﬁltrado sobre el Array.
+
+*Para tener en cuenta*
+    - La estructura hace referencia a el html y css, correspondientes al armado de la página general, pero que el JS que se evalúa, aún no está interactuando con ella.
+
+*Sugerencias*
+    - Si bien, por el momento solo podemos hacer entradas con prompt() y salidas con alert() o console.log(), es suﬁciente para empezar a pensar el proceso a
+        simular en términos de entradas, variables, estructuras, funciones, métodos y salidas. Veriﬁcar Rúbrica
