@@ -1,28 +1,28 @@
-**2da Pre Entrega - Comisión 71340 - Juan Ignacio Armas**
-**Estructura, variables y objetos**
+# 2da Pre Entrega - Comisión 71340 - Juan Ignacio Armas
 
-**Simulador interactivo de Préstamo hipotecario**
+## Estructura, variables y objetos
 
-*Objetivos especíﬁcos*
+### Simulador interactivo de Préstamo hipotecario
 
-    - Capturar entradas mediante prompt. Declarar variables y objetos necesarios para simular el proceso seleccionado.
-    - Crear funciones y/o métodos para realizar operaciones (suma, resta, concatenación, división, porcentaje, etc).
-    - Efectuar una salida, que es el resultado de los datos procesados, la cual puede hacerse por alert o console log.
+**Objetivos específicos**
 
-*Se debe entregar*
+- Capturar entradas mediante `prompt`. Declarar variables y objetos necesarios para simular el proceso seleccionado.
+- Crear funciones y/o métodos para realizar operaciones (suma, resta, concatenación, división, porcentaje, etc).
+- Efectuar una salida, que es el resultado de los datos procesados, la cual puede hacerse por `alert` o `console.log`.
 
-    - Estructura HTML del proyecto.
-    - Variables de JS necesarias.
-    - Funciones esenciales del proceso a simular.
-    - Objetos de JS.
-    - Arrays. 
-    - Métodos de búsqueda y ﬁltrado sobre el Array.
+**Se debe entregar**
 
-*Para tener en cuenta*
+- Estructura HTML del proyecto.
+- Variables de JS necesarias.
+- Funciones esenciales del proceso a simular.
+- Objetos de JS.
+- Arrays.
+- Métodos de búsqueda y filtrado sobre el Array.
 
-    - La estructura hace referencia a el html y css, correspondientes al armado de la página general, pero que el JS que se evalúa, aún no está interactuando con ella.
+**Para tener en cuenta**
 
-*Sugerencias*
+- La estructura hace referencia al HTML y CSS, correspondientes al armado de la página general, pero que el JS que se evalúa, aún no está interactuando con ella.
 
-    - Si bien, por el momento solo podemos hacer entradas con prompt() y salidas con alert() o console.log(), es suﬁciente para empezar a pensar el proceso a
-        simular en términos de entradas, variables, estructuras, funciones, métodos y salidas. Veriﬁcar Rúbrica
+**Sugerencias**
+
+- Si bien, por el momento solo podemos hacer entradas con `prompt()` y salidas con `alert()` o `console.log()`, es suficiente para empezar a pensar el proceso a simular en términos de entradas, variables, estructuras, funciones, métodos y salidas. Verificar Rúbrica
